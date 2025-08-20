@@ -1,0 +1,14 @@
+Queries
+
+ 1. ¿Qué come el cerdo?
+come(cerdo, X).
+X = pasto
+
+ 2. ¿Qué animales son comida del cerdo? 
+comida(X).
+X = pollo
+X = oveja
+
+3. ¿Es la oveja un animal de granja?
+granja(oveja).
+true
